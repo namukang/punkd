@@ -1,0 +1,5 @@
+NAME=""
+alias ls="say $NAME I am listing directories && \ls"
+alias cd="say $NAME I am changing directories && \cd"
+alias vim="say $NAME I prefer emacs && \emacs"
+alias emacs="say $NAME I prefer vim && \vim"
